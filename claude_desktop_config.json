@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "count-r":{
+            "command":"python",
+            "args":[
+                "C:\\Users\\USER\\Sushant\\count-r-server\\server.py"
+                ],
+            "host":"127.0.0.1",
+            "port":8080,
+            "timeout":30000
+            }
+    }
+}
